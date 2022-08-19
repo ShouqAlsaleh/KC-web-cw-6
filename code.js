@@ -23,7 +23,7 @@ else if (grade >= 80 && grade <=   89)
  else if (grade >= 50 && grade <= 59)
  {console.log (`لقد حصلت على ضعيف☹️`)}
 
- else if(grade <= 50 )
+ else if(grade < 50 )
  { console.log(`راسب💔`)}
 
 // JavaScript not Java
