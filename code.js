@@ -1,6 +1,6 @@
 alert (`Welcom, my website will calculate yuor score`)
 
-let grade = ( prompt`write your score `)
+let grade = ( prompt`write your grade `)
 
 console.log(grade)
 
